@@ -1,0 +1,5 @@
+streamlit==1.39.0
+pandas==2.2.0
+requests==2.31.0
+openai==1.54.0
+markdown==3.5.2
